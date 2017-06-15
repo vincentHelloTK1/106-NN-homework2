@@ -1,0 +1,1 @@
+python "/Users/scml/Downloads/KDD/dnn_3.py"  0.01 200 0.01 50 50 50

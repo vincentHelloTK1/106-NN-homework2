@@ -1,0 +1,1 @@
+python lmfortesting.py trainraw.csv.7v2 testraw.csv.7v2
